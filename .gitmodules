@@ -1,0 +1,3 @@
+[submodule "test/app-factory"]
+	path = test/app-factory
+	url = git@github.com:rejkowic/app-factory.git
