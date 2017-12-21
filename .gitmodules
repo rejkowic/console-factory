@@ -1,3 +1,6 @@
 [submodule "test/app-factory"]
 	path = test/app-factory
 	url = git@github.com:rejkowic/app-factory.git
+[submodule "src/console"]
+	path = src/console
+	url = git@github.com:rejkowic/console.git
